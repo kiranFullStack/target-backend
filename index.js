@@ -13,7 +13,7 @@ let data = [
     offerStartAt: new Date(2018, 11, 24, 10, 33, 30, 0),
     offerEndAt: new Date(2019, 11, 24, 10, 33, 30, 0),
     createdAt: new Date(2018, 10, 24, 10, 33, 30, 0),
-    updatedAt: new Date(2018, 11, 24, 10, 33, 30, 0)
+    updatedAt: Date.parse("2016-07-19T20:23:01.804Z")
   },
   {
     productName: "Product B",
@@ -21,10 +21,10 @@ let data = [
     isActive: "✅",
     price: 8,
     offerPrice: 9,
-    offerStartAt: 90,
-    offerEndAt: 90,
-    createdAt: 80,
-    updatedAt: 80
+    offerStartAt: new Date(2020, 11, 24, 10, 33, 30, 0),
+    offerEndAt: new Date(2029, 11, 24, 10, 33, 30, 0),
+    createdAt: new Date(2028, 10, 24, 10, 33, 30, 0),
+    updatedAt: Date.parse("2016-07-19T20:23:01.804Z")
   },
   {
     productName: "Product C",
