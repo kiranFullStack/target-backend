@@ -10,10 +10,10 @@ let data = [
     isActive: "✅",
     price: 8,
     offerPrice: 9,
-    offerStartAt: 90,
-    offerEndAt: 90,
-    createdAt: 80,
-    updatedAt: 80
+    offerStartAt: new Date(2018, 11, 24, 10, 33, 30, 0),
+    offerEndAt: new Date(2019, 11, 24, 10, 33, 30, 0),
+    createdAt: new Date(2018, 10, 24, 10, 33, 30, 0),
+    updatedAt: new Date(2018, 11, 24, 10, 33, 30, 0)
   },
   {
     productName: "Product B",
