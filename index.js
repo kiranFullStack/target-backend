@@ -62,7 +62,7 @@ let data = [
   {
     productName: "Product F",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 183,
     offerPrice: 176,
     offerStartAt: new Date(2012, 11, 24, 10, 33, 30, 0),
@@ -95,7 +95,7 @@ let data = [
   {
     productName: "Product I",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 86,
     offerPrice: 49,
     offerStartAt: new Date(2010, 12, 24, 10, 33, 30, 0),
@@ -106,7 +106,7 @@ let data = [
   {
     productName: "Product J",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 56,
     offerPrice: 50,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -128,7 +128,7 @@ let data = [
   {
     productName: "Product L",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 8,
     offerPrice: 9,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -139,7 +139,7 @@ let data = [
   {
     productName: "Product M",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 8,
     offerPrice: 9,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -150,7 +150,7 @@ let data = [
   {
     productName: "Product N",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 8,
     offerPrice: 9,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -205,7 +205,7 @@ let data = [
   {
     productName: "Product S",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 8,
     offerPrice: 9,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -238,7 +238,7 @@ let data = [
   {
     productName: "Product V",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 8,
     offerPrice: 9,
     offerStartAt: new Date(2010, 11, 24, 10, 33, 30, 0),
@@ -249,7 +249,7 @@ let data = [
   {
     productName: "Product W",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 184,
     offerPrice: 94,
     offerStartAt: new Date(2010, 5, 24, 10, 33, 30, 0),
@@ -282,7 +282,7 @@ let data = [
   {
     productName: "Product Z",
     productDescription: "This is the description",
-    isActive: "❌",
+    isActive: "✅",
     price: 865,
     offerPrice: 697,
     offerStartAt: new Date(2010, 11, 11, 10, 33, 30, 0),
